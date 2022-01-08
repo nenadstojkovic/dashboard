@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "Maudie",
+    "email": "mcrinage0@japanpost.jp",
+    "hourly_rate": 7,
+    "overtime_hourly_rate": 15,
+    "shifts": []
+  },
+  {
+    "id": 2,
+    "name": "Alwin",
+    "email": "amothersdale1@youtube.com",
+    "hourly_rate": 12,
+    "overtime_hourly_rate": 15,
+    "shifts": []
+  },
+  {
+    "id": 3,
+    "name": "Garrick",
+    "email": "gpally2@jalbum.net",
+    "hourly_rate": 11,
+    "overtime_hourly_rate": 15,
+    "shifts": []
+  },
+  {
+    "id": 4,
+    "name": "Aryn",
+    "email": "ahenriques3@joomla.org",
+    "hourly_rate": 6,
+    "overtime_hourly_rate": 15,
+    "shifts": []
+  },
+  {
+    "id": 5,
+    "name": "Shaine",
+    "email": "sluno4@woothemes.com",
+    "hourly_rate": 19,
+    "overtime_hourly_rate": 15,
+    "shifts": []
+  },
+  {
+    "id": 6,
+    "name": "Dorrie",
+    "email": "dnewburn5@squidoo.com",
+    "hourly_rate": 16,
+    "overtime_hourly_rate": 15,
+    "shifts": []
+  },
+  {
+    "id": 7,
+    "name": "Meghan",
+    "email": "mcursons6@ed.gov",
+    "hourly_rate": 14,
+    "overtime_hourly_rate": 15,
+    "shifts": []
+  },
+  {
+    "id": 8,
+    "name": "Daphne",
+    "email": "dpilmore7@arstechnica.com",
+    "hourly_rate": 6,
+    "overtime_hourly_rate": 15,
+    "shifts": []
+  },
+  {
+    "id": 9,
+    "name": "Terrell",
+    "email": "tskeermer8@accuweather.com",
+    "hourly_rate": 15,
+    "overtime_hourly_rate": 15,
+    "shifts": []
+  },
+  {
+    "id": 10,
+    "name": "Murvyn",
+    "email": "mgodard9@google.fr",
+    "hourly_rate": 11,
+    "overtime_hourly_rate": 15,
+    "shifts": []
+  }
+]

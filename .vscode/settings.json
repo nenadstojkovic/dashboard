@@ -1,0 +1,59 @@
+// Place your settings in this file to overwrite the default settings
+{
+  "git.enabled": true,
+  // Insert spaces when pressing Tab. This setting is overriden based on the file contents when `editor.detectIndentation` is on.
+  "editor.insertSpaces": true,
+  "editor.tabSize": 2,
+  "editor.detectIndentation": false,
+  "editor.renderWhitespace": "none",
+  "[css]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[scss]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "[less]": {
+    "editor.insertSpaces": true,
+    "editor.tabSize": 2
+  },
+  "editor.rulers": [80, 120],
+  // Configure glob patterns for excluding files and folders.
+  "files.exclude": {
+    "**/.idea": true,
+    "**/.vscode": true,
+    "**/build": true,
+    "**/dist": true,
+    "**/vendor": true,
+    "**/hooks": true,
+    "**/node_modules": true,
+    "**/benchmark": true,
+    "**/.tmp": true,
+    "**/lib": true
+    //",**/server": true
+  },
+  "search.exclude": {
+    "**/build": true,
+    "**/dist": true,
+    "**/vendor": true,
+    "**/hooks": true,
+    "**/node_modules": true,
+    "**/benchmark": true,
+    "**/.tmp": true,
+    "**/lib": true,
+    "**/server": true
+  },
+  // Do not use duplicate style definitions
+  "less.lint.duplicateProperties": "warning",
+  "vsicons.projectDetection.autoReload": false,
+  "window.zoomLevel": 0,
+  "files.autoSave": "off",
+  "html.format.wrapAttributes": "auto",
+  "html.format.wrapLineLength": 120,
+  "workbench.iconTheme": "material-icon-theme",
+  "vsicons.projectDetection.disableDetect": true,
+  "workbench.colorCustomizations": {},
+  "explorer.compactFolders": false,
+  "typescript.tsdk": "node_modules\\typescript\\lib"
+}
